@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e6e6fa"
+    android:orientation="vertical"
+    tools:context="skirosoft.locationinupdates.RainUpdates"
+    android:weightSum="1">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#e6e6fa"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="398dp"
+            android:layout_height="94dp"
+            android:src="@drawable/rain" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+            <TextView
+                android:id="@+id/rainQues"
+                android:layout_width="380dp"
+                android:layout_height="48dp"
+                android:text="Is it raining"
+                android:textSize="20dp"/>
+            </LinearLayout>
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:textAlignment="center">
+
+            <RadioButton
+                android:layout_width="158dp"
+                android:layout_height="match_parent"
+                android:text="Yes"
+                android:id="@+id/radioY"
+                android:textColor="#000080"
+                android:checked="false" />
+            <RadioButton
+                android:layout_width="158dp"
+                android:layout_height="48dp"
+                android:text="No  "
+                android:textColor="#000080"
+                android:id="@+id/radioN"
+                android:checked="false" />
+
+        </LinearLayout>
+
+        <Spinner
+            android:id="@+id/material_spinner2"
+            android:layout_width="323dp"
+            android:layout_height="83dp"
+            android:gravity="center"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="@android:color/darker_gray"
+            android:textColorHint="#CFD8DC" />
+
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="73dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="#fa8072"
+            android:textColorHint="#CFD8DC"
+            android:textSize="15dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="75dp"
+                android:layout_height="50dp"
+                android:layout_weight="0.46"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="56dp"
+                android:layout_height="match_parent"
+                android:layout_weight="0.60"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="127dp"
+                android:layout_height="match_parent"
+                android:text="LATTIDUDE AND LONGITUDE"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="@android:color/holo_green_dark"
+                android:textColorHint="#CFD8DC" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="205dp"
+                android:layout_height="42dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#fa8072"
+                android:textColorHint="#CFD8DC"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/txtdat"
+                android:layout_width="205dp"
+                android:layout_height="match_parent"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#fa8072"
+                android:textColorHint="#CFD8DC"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="Save Location"
+            android:background="@drawable/yellow"
+            android:textSize="20dp" />
+
+        <ListView
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:cacheColorHint="@color/colorBlack"
+            android:id="@+id/listview">
+
+        </ListView>
+
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,564 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:2:1-64:12
+	package
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:3:5-42
+		INJECTED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:2:1-64:12
+		INJECTED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:11:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:12:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Nisha\.android\build-cache\2fdf41b9cf590e2a964fd46e810fe1e3e27ac17e\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\7966d4a96b1aec910af8ddc1c197deb7b787587b\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Nisha\.android\build-cache\adab39749bb7ff65601991eabc775a7e8575c9f6\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Nisha\.android\build-cache\c076eff78065ca9b218607d5f82785435e91b632\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Nisha\.android\build-cache\ed06bd26bab3defae93b451af031db81e72698c5\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\e3733c3b86fb030f61ffaff7ce410684cfb056fa\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\05134bfea4a98013fcc2224640bedf8d90ef5395\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Nisha\.android\build-cache\92c73f9a781cc1b0195d4873367dd6555cc041a2\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Nisha\.android\build-cache\2fdf41b9cf590e2a964fd46e810fe1e3e27ac17e\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\7966d4a96b1aec910af8ddc1c197deb7b787587b\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Nisha\.android\build-cache\10985f84e662ce5d380bb2f7b265a04424990874\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\e3733c3b86fb030f61ffaff7ce410684cfb056fa\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\05134bfea4a98013fcc2224640bedf8d90ef5395\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Nisha\.android\build-cache\92c73f9a781cc1b0195d4873367dd6555cc041a2\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:14:5-98
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:14:22-95
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:15:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:16:5-66
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:16:22-63
+application
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:18:5-62:19
+MERGED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:18:5-62:19
+MERGED from [com.android.support:design:25.3.1] C:\Users\Nisha\.android\build-cache\05bfe830e96bcb2a1168cc7d3a11aa70065d5062\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Nisha\.android\build-cache\0ec28d18ef6c9bebd94ff5ea53c8b392409d92d5\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Nisha\.android\build-cache\6e2c6e27268cee3d763899d9ef9efc6d7b055cbd\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Nisha\.android\build-cache\53f7af01223735146c5711251e42c4cdcf056fee\output\AndroidManifest.xml:5:5-20
+MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] C:\Users\Nisha\.android\build-cache\4c9473be3746e45fee26d662d00910f286452691\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Nisha\.android\build-cache\5f3bf4ec4c6e37a1e1a7b745be026cada7ad3744\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Nisha\.android\build-cache\cf8aec3a039c83799c63345672bef8921de69867\output\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Nisha\.android\build-cache\68caac721ecdfc72315e05b6b51e391814945625\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Nisha\.android\build-cache\2fdf41b9cf590e2a964fd46e810fe1e3e27ac17e\output\AndroidManifest.xml:23:5-26:19
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\7966d4a96b1aec910af8ddc1c197deb7b787587b\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Nisha\.android\build-cache\142d50d1cb09c3ffecd8a69fcd2e646d4448834f\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Nisha\.android\build-cache\93bad35b0dbde6c50fcea2d9ddf73ae63631fb8e\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\Nisha\.android\build-cache\fe87e59a10eb3841476abf6730c7da421826cee7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Nisha\.android\build-cache\a2f581edeb1ba70d81988d658c8740e8ec289fc6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nisha\.android\build-cache\ea62e70037f114114d1fdf65737d1463f3877602\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nisha\.android\build-cache\ab451f023c4eaf818573d7d140ecea490050da0b\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nisha\.android\build-cache\0e9683c0662e736f4cb0ec5f2c11a04e452db72d\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Nisha\.android\build-cache\6c6b8f9857a51794b64be99e0b8e276a1a8aa2de\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Nisha\.android\build-cache\06155233a26dba40b23e699418a10af0a1e92171\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\Nisha\.android\build-cache\6f8cc96e68ffd2160ce21eb54fb21da5df8d33f3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\Nisha\.android\build-cache\8e6d9e4fdf2bf25c6618eaf06a77011742a2b232\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Nisha\.android\build-cache\adab39749bb7ff65601991eabc775a7e8575c9f6\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Nisha\.android\build-cache\7541da15211e8992e1306e2ab8a8d7585b3893f9\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\Nisha\.android\build-cache\bb3d27e35ccd45a656a0abd85c117d6fca7df36f\output\AndroidManifest.xml:5:3-17
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Nisha\.android\build-cache\9aeea0b96aded1f126fdb518676bf9f4a0be5ad3\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\Nisha\.android\build-cache\10713b69476d71d90384ea1cc19259d038a254c8\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\Nisha\.android\build-cache\5c43def15b17ed877f77d475d7e15a01f1223208\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\Nisha\.android\build-cache\a5a69dd6e938fced32f3ef8f38421d7072eceabc\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\Nisha\.android\build-cache\6c74dd79cdedc265b90a61664a4dbb9396c98517\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Nisha\.android\build-cache\c076eff78065ca9b218607d5f82785435e91b632\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\Nisha\.android\build-cache\a4a49f5d4ee11858c125894ad449e8d86be3b891\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Nisha\.android\build-cache\ed06bd26bab3defae93b451af031db81e72698c5\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\Nisha\.android\build-cache\76fcb8564dbd57a6f02f74167c65309e04edbc43\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Nisha\.android\build-cache\10985f84e662ce5d380bb2f7b265a04424990874\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\Nisha\.android\build-cache\24fca13586e1479ce410000e54742b92f99e47e3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\Nisha\.android\build-cache\81bc33c28b9a2da1f12d709bdac7605cb7a2ed1f\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\Nisha\.android\build-cache\d857588abff18274cdd69adc20df3da2b01cb4b0\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\Nisha\.android\build-cache\8fcbe540a6417f0de3e0dfd444a819994412b02a\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\e3733c3b86fb030f61ffaff7ce410684cfb056fa\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:28:5-49:19
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Nisha\.android\build-cache\ee0e49904c56f88a723201d82fb746fcc8b7aeb9\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Nisha\.android\build-cache\d00055d444f2bc7797c2cca0439751db25ac4932\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\05134bfea4a98013fcc2224640bedf8d90ef5395\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Nisha\.android\build-cache\2d8145833c8ef6126e8403ed88858a41827bfad3\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Nisha\.android\build-cache\b5ed5ba798964b910b198ac4a6e000fdfdcd5a9d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\Nisha\.android\build-cache\22d2fc79a47baca94f909245e37fe778c20b814a\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Nisha\.android\build-cache\92c73f9a781cc1b0195d4873367dd6555cc041a2\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\Nisha\.android\build-cache\8caa95b0e0c96b500cc14ee1e5ce0422c21a8ff7\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Nisha\.android\build-cache\5fa1819cc955d5a53b0b2e173055ca3dd9cc1205\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Nisha\.android\build-cache\b5f2349877b0f45a8be7e9d7daf36792691165da\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Nisha\.android\build-cache\d6bdb9218b0a363a1af6372056a9d788c7020292\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nisha\.android\build-cache\8010b172d54552bbca985e209ebe54b323ce4b4e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nisha\.android\build-cache\1462c9a13a0ab56cf09761ea4337edd3279009ac\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nisha\.android\build-cache\81f4c7ba2006f242183d5e30bee5e3d19a8a35b1\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nisha\.android\build-cache\999404f0f84027e847e17a1fdf5bfa6d37c2abb4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nisha\.android\build-cache\a706a4ef7c17016c1d0a44a5d8450ff9f1fa91d4\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nisha\.android\build-cache\981382c3fd082e623323165ab1ee9f72b41c0873\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:21:9-41
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:21:9-41
+	android:supportsRtl
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:23:9-35
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:23:9-35
+	android:roundIcon
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:22:9-54
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:22:9-54
+	android:allowBackup
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:19:9-35
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:20:9-41
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:20:9-41
+	android:theme
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:24:9-40
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:24:9-40
+activity#skirosoft.locationinupdates.LoginActivity
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:25:9-51
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:25:19-48
+activity#skirosoft.locationinupdates.RainUpdates
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:26:9-49
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:26:19-46
+activity#skirosoft.locationinupdates.MainActivity
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:27:19-47
+activity#skirosoft.locationinupdates.GoldUpdates
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:28:9-49
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:28:19-46
+activity#skirosoft.locationinupdates.FirstPage
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:29:9-47
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:29:19-44
+activity#skirosoft.locationinupdates.SignupActivity
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:30:9-52
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:30:19-49
+activity#skirosoft.locationinupdates.ResetPasswordActivity
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:31:9-59
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:31:19-56
+activity#skirosoft.locationinupdates.PetrolUpdates
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:32:9-51
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:32:19-48
+activity#skirosoft.locationinupdates.RoadUpdates
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:33:9-49
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:33:19-46
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:42:9-44:71
+	android:value
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:44:13-68
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:43:13-58
+activity#skirosoft.locationinupdates.MapsActivity
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:46:9-48:59
+	android:label
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:48:13-56
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:47:13-41
+activity#skirosoft.locationinupdates.RecyclerViewActivity
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:49:9-58
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:49:19-55
+activity#skirosoft.locationinupdates.Splash
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:50:9-56:20
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:50:19-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:54:27-74
+activity#skirosoft.locationinupdates.Navigatee
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:57:9-60:56
+	android:label
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:59:13-36
+	android:theme
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:60:13-44
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:58:13-38
+activity#skirosoft.locationinupdates.Logout
+ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:61:9-53
+	android:name
+		ADDED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml:61:19-41
+uses-sdk
+INJECTED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] C:\Users\Nisha\.android\build-cache\26159fab332e8b065deb94f2738b6e3d88ab2ca8\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:design:25.3.1] C:\Users\Nisha\.android\build-cache\05bfe830e96bcb2a1168cc7d3a11aa70065d5062\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Nisha\.android\build-cache\0ec28d18ef6c9bebd94ff5ea53c8b392409d92d5\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.0-alpha7] C:\Users\Nisha\.android\build-cache\6e2c6e27268cee3d763899d9ef9efc6d7b055cbd\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Nisha\.android\build-cache\d86d495aafd451206bc081a3893b93563fb097b3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-core:11.0.4] C:\Users\Nisha\.android\build-cache\53f7af01223735146c5711251e42c4cdcf056fee\output\AndroidManifest.xml:4:5-43
+MERGED from [com.weiwangcn.betterspinner:library-material:1.1.0] C:\Users\Nisha\.android\build-cache\4c9473be3746e45fee26d662d00910f286452691\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.rengwuxian.materialedittext:library:2.0.3] C:\Users\Nisha\.android\build-cache\c0102e0a462f3fdb8ca9d856332a481444f27d75\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.volley:volley:1.0.0] C:\Users\Nisha\.android\build-cache\5f3bf4ec4c6e37a1e1a7b745be026cada7ad3744\output\AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Nisha\.android\build-cache\cf8aec3a039c83799c63345672bef8921de69867\output\AndroidManifest.xml:20:5-43
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.1.7] C:\Users\Nisha\.android\build-cache\11b440fb1f58f0b9df8d9144f9c10ab53ca3ac14\output\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services:11.0.4] C:\Users\Nisha\.android\build-cache\68caac721ecdfc72315e05b6b51e391814945625\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads:11.0.4] C:\Users\Nisha\.android\build-cache\e828cd566a9ab578365205c3b36440e6de49dfaf\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Nisha\.android\build-cache\2fdf41b9cf590e2a964fd46e810fe1e3e27ac17e\output\AndroidManifest.xml:22:5-43
+MERGED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\7966d4a96b1aec910af8ddc1c197deb7b787587b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.4] C:\Users\Nisha\.android\build-cache\2c2455821bb14518b02237f1dd8426137e0e199d\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Nisha\.android\build-cache\142d50d1cb09c3ffecd8a69fcd2e646d4448834f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.4] C:\Users\Nisha\.android\build-cache\a3440927779a1fb2edacd2d953dea1ab74dd30e0\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Nisha\.android\build-cache\93bad35b0dbde6c50fcea2d9ddf73ae63631fb8e\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-cast:11.0.4] C:\Users\Nisha\.android\build-cache\fe87e59a10eb3841476abf6730c7da421826cee7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:mediarouter-v7:25.2.0] C:\Users\Nisha\.android\build-cache\a2f581edeb1ba70d81988d658c8740e8ec289fc6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nisha\.android\build-cache\ea62e70037f114114d1fdf65737d1463f3877602\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nisha\.android\build-cache\ab451f023c4eaf818573d7d140ecea490050da0b\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nisha\.android\build-cache\0e9683c0662e736f4cb0ec5f2c11a04e452db72d\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:25.2.0] C:\Users\Nisha\.android\build-cache\6c6b8f9857a51794b64be99e0b8e276a1a8aa2de\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:11.0.4] C:\Users\Nisha\.android\build-cache\06155233a26dba40b23e699418a10af0a1e92171\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-config:11.0.4] C:\Users\Nisha\.android\build-cache\6f8cc96e68ffd2160ce21eb54fb21da5df8d33f3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-awareness:11.0.4] C:\Users\Nisha\.android\build-cache\8e6d9e4fdf2bf25c6618eaf06a77011742a2b232\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-crash:11.0.4] C:\Users\Nisha\.android\build-cache\adab39749bb7ff65601991eabc775a7e8575c9f6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.google.firebase:firebase-auth:11.0.4] C:\Users\Nisha\.android\build-cache\7541da15211e8992e1306e2ab8a8d7585b3893f9\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.0.4] C:\Users\Nisha\.android\build-cache\e88a50348f9b14ac46e731985648865677efe876\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.0.4] C:\Users\Nisha\.android\build-cache\aba106f5556985a9cc9c157f9559fcd8c0067adc\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-dynamic-links:11.0.4] C:\Users\Nisha\.android\build-cache\bb3d27e35ccd45a656a0abd85c117d6fca7df36f\output\AndroidManifest.xml:3:3-41
+MERGED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Nisha\.android\build-cache\9aeea0b96aded1f126fdb518676bf9f4a0be5ad3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-storage:11.0.4] C:\Users\Nisha\.android\build-cache\c0def79817d312101f2aa4ffc2a6b12d2cc9e074\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-storage-common:11.0.4] C:\Users\Nisha\.android\build-cache\9de17af9263fb814e8707675598af65c104fea45\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-fitness:11.0.4] C:\Users\Nisha\.android\build-cache\10713b69476d71d90384ea1cc19259d038a254c8\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-games:11.0.4] C:\Users\Nisha\.android\build-cache\5c43def15b17ed877f77d475d7e15a01f1223208\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-drive:11.0.4] C:\Users\Nisha\.android\build-cache\a5a69dd6e938fced32f3ef8f38421d7072eceabc\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-gass:11.0.4] C:\Users\Nisha\.android\build-cache\6c74dd79cdedc265b90a61664a4dbb9396c98517\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Nisha\.android\build-cache\c076eff78065ca9b218607d5f82785435e91b632\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-appindexing:11.0.4] C:\Users\Nisha\.android\build-cache\a4a49f5d4ee11858c125894ad449e8d86be3b891\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Nisha\.android\build-cache\ed06bd26bab3defae93b451af031db81e72698c5\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-instantapps:11.0.4] C:\Users\Nisha\.android\build-cache\e34d32c6218325a1b683640ba0df0deefb808ea2\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-location:11.0.4] C:\Users\Nisha\.android\build-cache\76fcb8564dbd57a6f02f74167c65309e04edbc43\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-nearby:11.0.4] C:\Users\Nisha\.android\build-cache\10985f84e662ce5d380bb2f7b265a04424990874\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-panorama:11.0.4] C:\Users\Nisha\.android\build-cache\24fca13586e1479ce410000e54742b92f99e47e3\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-places:11.0.4] C:\Users\Nisha\.android\build-cache\81bc33c28b9a2da1f12d709bdac7605cb7a2ed1f\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-plus:11.0.4] C:\Users\Nisha\.android\build-cache\d857588abff18274cdd69adc20df3da2b01cb4b0\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-safetynet:11.0.4] C:\Users\Nisha\.android\build-cache\8fcbe540a6417f0de3e0dfd444a819994412b02a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager:11.0.4] C:\Users\Nisha\.android\build-cache\79e0954e2268c9aa3e8c64ba05f16b683e810121\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\e3733c3b86fb030f61ffaff7ce410684cfb056fa\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Nisha\.android\build-cache\ee0e49904c56f88a723201d82fb746fcc8b7aeb9\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:11.0.4] C:\Users\Nisha\.android\build-cache\d00055d444f2bc7797c2cca0439751db25ac4932\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\05134bfea4a98013fcc2224640bedf8d90ef5395\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-vision:11.0.4] C:\Users\Nisha\.android\build-cache\2d8145833c8ef6126e8403ed88858a41827bfad3\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-vision-common:11.0.4] C:\Users\Nisha\.android\build-cache\b5ed5ba798964b910b198ac4a6e000fdfdcd5a9d\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-wallet:11.0.4] C:\Users\Nisha\.android\build-cache\279b806464e50ea19890e6e8822bc8af819f4c40\output\AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-identity:11.0.4] C:\Users\Nisha\.android\build-cache\22d2fc79a47baca94f909245e37fe778c20b814a\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Nisha\.android\build-cache\92c73f9a781cc1b0195d4873367dd6555cc041a2\output\AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-wearable:11.0.4] C:\Users\Nisha\.android\build-cache\8caa95b0e0c96b500cc14ee1e5ce0422c21a8ff7\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Nisha\.android\build-cache\5fa1819cc955d5a53b0b2e173055ca3dd9cc1205\output\AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] C:\Users\Nisha\.android\build-cache\b5f2349877b0f45a8be7e9d7daf36792691165da\output\AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Nisha\.android\build-cache\d6bdb9218b0a363a1af6372056a9d788c7020292\output\AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nisha\.android\build-cache\8010b172d54552bbca985e209ebe54b323ce4b4e\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nisha\.android\build-cache\1462c9a13a0ab56cf09761ea4337edd3279009ac\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nisha\.android\build-cache\81f4c7ba2006f242183d5e30bee5e3d19a8a35b1\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nisha\.android\build-cache\999404f0f84027e847e17a1fdf5bfa6d37c2abb4\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nisha\.android\build-cache\a706a4ef7c17016c1d0a44a5d8450ff9f1fa91d4\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nisha\.android\build-cache\981382c3fd082e623323165ab1ee9f72b41c0873\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Nisha\.android\build-cache\05bfe830e96bcb2a1168cc7d3a11aa70065d5062\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nisha\AndroidStudioProjects\LocationInUpdates\app\src\debug\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\Nisha\.android\build-cache\05bfe830e96bcb2a1168cc7d3a11aa70065d5062\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\Nisha\.android\build-cache\0ec28d18ef6c9bebd94ff5ea53c8b392409d92d5\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\Nisha\.android\build-cache\d86d495aafd451206bc081a3893b93563fb097b3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\Nisha\.android\build-cache\cf8aec3a039c83799c63345672bef8921de69867\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Nisha\.android\build-cache\ea62e70037f114114d1fdf65737d1463f3877602\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Nisha\.android\build-cache\ab451f023c4eaf818573d7d140ecea490050da0b\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Nisha\.android\build-cache\0e9683c0662e736f4cb0ec5f2c11a04e452db72d\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Nisha\.android\build-cache\8010b172d54552bbca985e209ebe54b323ce4b4e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Nisha\.android\build-cache\1462c9a13a0ab56cf09761ea4337edd3279009ac\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Nisha\.android\build-cache\81f4c7ba2006f242183d5e30bee5e3d19a8a35b1\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Nisha\.android\build-cache\999404f0f84027e847e17a1fdf5bfa6d37c2abb4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Nisha\.android\build-cache\a706a4ef7c17016c1d0a44a5d8450ff9f1fa91d4\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Nisha\.android\build-cache\981382c3fd082e623323165ab1ee9f72b41c0873\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Nisha\.android\build-cache\05bfe830e96bcb2a1168cc7d3a11aa70065d5062\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\Nisha\.android\build-cache\05bfe830e96bcb2a1168cc7d3a11aa70065d5062\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Nisha\.android\build-cache\2fdf41b9cf590e2a964fd46e810fe1e3e27ac17e\output\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Nisha\.android\build-cache\2fdf41b9cf590e2a964fd46e810fe1e3e27ac17e\output\AndroidManifest.xml:25:72-181
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Nisha\.android\build-cache\2fdf41b9cf590e2a964fd46e810fe1e3e27ac17e\output\AndroidManifest.xml:25:182-230
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.0.4] C:\Users\Nisha\.android\build-cache\2fdf41b9cf590e2a964fd46e810fe1e3e27ac17e\output\AndroidManifest.xml:25:19-71
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\7966d4a96b1aec910af8ddc1c197deb7b787587b\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\e3733c3b86fb030f61ffaff7ce410684cfb056fa\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\05134bfea4a98013fcc2224640bedf8d90ef5395\output\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\7966d4a96b1aec910af8ddc1c197deb7b787587b\output\AndroidManifest.xml:24:22-65
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:20:9-25:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:20:51-74
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:20:75-121
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:20:19-50
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:21:13-24:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:22:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:23:17-75
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:11.0.4] C:\Users\Nisha\.android\build-cache\0586a3049cb002e00c655df7388abece7552bd4b\output\AndroidManifest.xml:23:27-73
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Nisha\.android\build-cache\142d50d1cb09c3ffecd8a69fcd2e646d4448834f\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Nisha\.android\build-cache\142d50d1cb09c3ffecd8a69fcd2e646d4448834f\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Nisha\.android\build-cache\142d50d1cb09c3ffecd8a69fcd2e646d4448834f\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Nisha\.android\build-cache\142d50d1cb09c3ffecd8a69fcd2e646d4448834f\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Nisha\.android\build-cache\142d50d1cb09c3ffecd8a69fcd2e646d4448834f\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Nisha\.android\build-cache\142d50d1cb09c3ffecd8a69fcd2e646d4448834f\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Nisha\.android\build-cache\142d50d1cb09c3ffecd8a69fcd2e646d4448834f\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Nisha\.android\build-cache\142d50d1cb09c3ffecd8a69fcd2e646d4448834f\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.4] C:\Users\Nisha\.android\build-cache\142d50d1cb09c3ffecd8a69fcd2e646d4448834f\output\AndroidManifest.xml:24:18-63
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Nisha\.android\build-cache\93bad35b0dbde6c50fcea2d9ddf73ae63631fb8e\output\AndroidManifest.xml:5:9-99
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Nisha\.android\build-cache\93bad35b0dbde6c50fcea2d9ddf73ae63631fb8e\output\AndroidManifest.xml:5:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Nisha\.android\build-cache\93bad35b0dbde6c50fcea2d9ddf73ae63631fb8e\output\AndroidManifest.xml:6:9-103
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Nisha\.android\build-cache\93bad35b0dbde6c50fcea2d9ddf73ae63631fb8e\output\AndroidManifest.xml:6:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Nisha\.android\build-cache\93bad35b0dbde6c50fcea2d9ddf73ae63631fb8e\output\AndroidManifest.xml:7:9-92
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:11.0.4] C:\Users\Nisha\.android\build-cache\93bad35b0dbde6c50fcea2d9ddf73ae63631fb8e\output\AndroidManifest.xml:7:18-90
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Nisha\.android\build-cache\9aeea0b96aded1f126fdb518676bf9f4a0be5ad3\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Nisha\.android\build-cache\9aeea0b96aded1f126fdb518676bf9f4a0be5ad3\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Nisha\.android\build-cache\9aeea0b96aded1f126fdb518676bf9f4a0be5ad3\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Nisha\.android\build-cache\9aeea0b96aded1f126fdb518676bf9f4a0be5ad3\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Nisha\.android\build-cache\9aeea0b96aded1f126fdb518676bf9f4a0be5ad3\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Nisha\.android\build-cache\9aeea0b96aded1f126fdb518676bf9f4a0be5ad3\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:11.0.4] C:\Users\Nisha\.android\build-cache\9aeea0b96aded1f126fdb518676bf9f4a0be5ad3\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Nisha\.android\build-cache\c076eff78065ca9b218607d5f82785435e91b632\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] C:\Users\Nisha\.android\build-cache\ed06bd26bab3defae93b451af031db81e72698c5\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:11.0.4] C:\Users\Nisha\.android\build-cache\c076eff78065ca9b218607d5f82785435e91b632\output\AndroidManifest.xml:20:22-79
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:24:9-134
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:24:110-132
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:24:85-109
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:24:18-84
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:25:9-32:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:25:94-117
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:25:118-142
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:25:19-93
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:26:13-31:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:27:17-71
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:27:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:28:17-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:28:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:11.0.4] C:\Users\Nisha\.android\build-cache\dce3eeb72cefc44471a8bd21b1afb5075b646273\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\e3733c3b86fb030f61ffaff7ce410684cfb056fa\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.0.4] C:\Users\Nisha\.android\build-cache\e3733c3b86fb030f61ffaff7ce410684cfb056fa\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.0.4] C:\Users\Nisha\.android\build-cache\45106c1ed9205d082d20e37be91e0b710543a120\output\AndroidManifest.xml:33:16-90
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:30:9-35:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:31:13-34:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:32:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:33:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:33:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:39:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:39:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:39:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:43:9-47:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:43:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:43:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:44:13-46:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:44:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:45:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.0.4] C:\Users\Nisha\.android\build-cache\15d170bea575b1dd8eab08e4fb4e6b0ea0dde228\output\AndroidManifest.xml:45:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Nisha\.android\build-cache\ee0e49904c56f88a723201d82fb746fcc8b7aeb9\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Nisha\.android\build-cache\ee0e49904c56f88a723201d82fb746fcc8b7aeb9\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Nisha\.android\build-cache\ee0e49904c56f88a723201d82fb746fcc8b7aeb9\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Nisha\.android\build-cache\ee0e49904c56f88a723201d82fb746fcc8b7aeb9\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.0.4] C:\Users\Nisha\.android\build-cache\ee0e49904c56f88a723201d82fb746fcc8b7aeb9\output\AndroidManifest.xml:6:79-143
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Nisha\.android\build-cache\92c73f9a781cc1b0195d4873367dd6555cc041a2\output\AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Nisha\.android\build-cache\92c73f9a781cc1b0195d4873367dd6555cc041a2\output\AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.0.4] C:\Users\Nisha\.android\build-cache\92c73f9a781cc1b0195d4873367dd6555cc041a2\output\AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Nisha\.android\build-cache\5fa1819cc955d5a53b0b2e173055ca3dd9cc1205\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Nisha\.android\build-cache\5fa1819cc955d5a53b0b2e173055ca3dd9cc1205\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Nisha\.android\build-cache\5fa1819cc955d5a53b0b2e173055ca3dd9cc1205\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] C:\Users\Nisha\.android\build-cache\5fa1819cc955d5a53b0b2e173055ca3dd9cc1205\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Nisha\.android\build-cache\d6bdb9218b0a363a1af6372056a9d788c7020292\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Nisha\.android\build-cache\d6bdb9218b0a363a1af6372056a9d788c7020292\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] C:\Users\Nisha\.android\build-cache\d6bdb9218b0a363a1af6372056a9d788c7020292\output\AndroidManifest.xml:20:20-65

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_stat_share.png",
+        "source": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_stat_share.png"
+    },
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_action_stat_reply.png",
+        "source": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_stat_reply.png"
+    },
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_expand_more_black_18dp.png",
+        "source": "C:\\Users\\Nisha\\.android\\build-cache\\4c9473be3746e45fee26d662d00910f286452691\\output\\res\\drawable-xhdpi\\ic_expand_more_black_18dp.png"
+    }
+]

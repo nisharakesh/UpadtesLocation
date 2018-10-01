@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\Nisha\\.android\\build-cache\\81bc33c28b9a2da1f12d709bdac7605cb7a2ed1f\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Nisha\\.android\\build-cache\\ea62e70037f114114d1fdf65737d1463f3877602\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Nisha\\.android\\build-cache\\ea62e70037f114114d1fdf65737d1463f3877602\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Nisha\\.android\\build-cache\\ea62e70037f114114d1fdf65737d1463f3877602\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Nisha\\.android\\build-cache\\ea62e70037f114114d1fdf65737d1463f3877602\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

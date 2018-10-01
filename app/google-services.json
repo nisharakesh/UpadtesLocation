@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "233713228296",
+    "firebase_url": "https://blood-donation-55bc9.firebaseio.com",
+    "project_id": "blood-donation-55bc9",
+    "storage_bucket": "blood-donation-55bc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233713228296:android:d8cb1c17768340f8",
+        "android_client_info": {
+          "package_name": "com.example.nisha.blooddonationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233713228296-idccar16td4vmth610l6kmolss7nj4si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvfcOn90vP_DrHc8LCydEmoSrG4Azo9Ds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233713228296:android:ddbceff5372071a7",
+        "android_client_info": {
+          "package_name": "skirosoft.locationinupdates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233713228296-idccar16td4vmth610l6kmolss7nj4si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvfcOn90vP_DrHc8LCydEmoSrG4Azo9Ds"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

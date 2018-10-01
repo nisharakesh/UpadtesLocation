@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_scrolling.xml",
+        "source": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\src\\debug\\res\\menu\\menu_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigatee.xml",
+        "source": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\src\\main\\res\\menu\\navigatee.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\debug\\menu\\acivity_main.xml",
+        "source": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\src\\main\\res\\menu\\acivity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_navigatee_drawer.xml",
+        "source": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\src\\main\\res\\menu\\activity_navigatee_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main2.xml",
+        "source": "C:\\Users\\Nisha\\AndroidStudioProjects\\LocationInUpdates\\app\\src\\main\\res\\menu\\menu_main2.xml"
+    }
+]

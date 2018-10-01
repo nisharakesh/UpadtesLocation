@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#e6e6fa"
+    tools:context="skirosoft.locationinupdates.PetrolUpdates"
+    android:weightSum="1">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#e6e6fa"
+        android:orientation="vertical">
+
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="match_parent"
+            android:layout_height="94dp"
+            android:src="@drawable/pd" />
+
+        <TextView
+            android:id="@+id/rainQues"
+            android:layout_width="match_parent"
+            android:layout_height="37dp"
+            android:text="Todays  Petrol  And Diesel  Rate "
+            android:textSize="20dp" />
+
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="match_parent"
+            android:layout_height="69dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="#fa8072"
+            android:textColorHint="#CFD8DC"
+            android:textSize="15dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="75dp"
+                android:layout_height="39dp"
+                android:layout_weight="0.20"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="56dp"
+                android:layout_height="39dp"
+                android:layout_weight="0.66"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="151dp"
+                android:layout_height="match_parent"
+                android:text="LATTIDUDE AND LONGITUDE"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="@android:color/holo_green_dark"
+                android:textColorHint="#CFD8DC" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textpet"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Petrol Rate"
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="#ff1493"
+            android:textColorHint="#CFD8DC"
+            android:textSize="20dp" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+
+            <EditText
+                android:id="@+id/ed_pamt_ltr"
+                android:layout_width="218dp"
+                android:layout_height="wrap_content"
+                android:hint="Amount "
+                android:inputType="numberDecimal"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#1e90ff"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/txt_ltr"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="Per Liter"
+                android:inputType="numberDecimal"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#1e90ff"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <EditText
+                android:id="@+id/ed_pamt_galn"
+                android:layout_width="215dp"
+                android:layout_height="wrap_content"
+                android:hint="Amount  "
+                android:inputType="numberDecimal"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#1e90ff"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/txt_gln"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="Per Gallon"
+                android:inputType="numberDecimal"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#1e90ff"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Diesel Rate "
+            android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+            android:textColor="#ff1493"
+            android:textColorHint="#CFD8DC"
+            android:textSize="20dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <EditText
+                android:id="@+id/ed_damt_ltr"
+                android:layout_width="218dp"
+                android:layout_height="wrap_content"
+                android:hint="Amount  "
+                android:inputType="numberDecimal"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#1e90ff"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/txt_dltr"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="Per Liter"
+                android:inputType="numberDecimal"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#1e90ff"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="1">
+
+            <EditText
+                android:id="@+id/ed_damt_galn"
+                android:layout_width="218dp"
+                android:layout_height="match_parent"
+                android:hint="Amount  "
+                android:inputType="numberDecimal"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#1e90ff"
+                android:textSize="20dp" />
+
+            <TextView
+                android:id="@+id/txt_dgln"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:hint="Per Gallon"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#00bfff"
+                android:textSize="20dp" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/txt_dte"
+                android:layout_width="205dp"
+                android:layout_height="33dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#fa8072"
+                android:textColorHint="#CFD8DC"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/txtdate"
+                android:layout_width="205dp"
+                android:layout_height="33dp"
+                android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+                android:textColor="#fa8072"
+                android:textColorHint="#CFD8DC"
+                android:textSize="15dp" />
+        </LinearLayout>
+
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="46dp"
+            android:background="@drawable/yellow"
+            android:text="Save Location"
+            android:textSize="20dp" />
+
+        <ListView
+            android:id="@+id/listview"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+        </ListView>
+
+    </LinearLayout>
+</ScrollView>
+
